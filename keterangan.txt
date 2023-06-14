@@ -1,4 +1,4 @@
-Administrator : add /admin in the last url
+Administrator : add news/admin in the last url
 
 username: admin@admin.com
 password: Ghufron020902
