@@ -16,10 +16,10 @@
 
 # **How to login as admin :** 
 
-1. add to url with "/admin" (http://localhost/portal-news/admin)
+1. add to url with "/admin" (http://localhost/news/admin)
 
 
-2. Email | password : admin@admin.com | password
+2. Email | password : admin@admin.com | Ghufron020902
 
 
 ![alt text](https://github.com/tegarpratama/portal-news/blob/master/capture.png?raw=true)
