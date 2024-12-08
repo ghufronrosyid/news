@@ -1,9 +1,9 @@
 # **Spesification**:
 
-1. Codeigniter v3
+1. Laravel
 2. Bootstrap 4
 3. Jquery Datatables
-4. Ion Auth Codeigniter
+4. Ion Auth
 5. Sweetalert2
 6. Summernote
 
